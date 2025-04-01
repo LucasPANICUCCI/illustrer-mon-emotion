@@ -1,0 +1,9 @@
+{
+  "name": "emotion-music",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "generate_music.js",
+  "dependencies": {
+    "@magenta/music": "^1.23.0"
+  }
+}
